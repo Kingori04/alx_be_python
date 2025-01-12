@@ -1,0 +1,119 @@
+[33mcommit dc250e32685c2a37759fa917fc672bd79e6a11fd[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m, [m[1;31morigin/master[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: Dennis Ngatia <ngatiaalx@gmail.com>
+Date:   Sun Jan 12 23:39:05 2025 +0300
+
+    Move arithmetic_operations.py to fns_and_dsa directory
+
+[33mcommit cb4210f79bd1a21c9e66d1943238606186331e2d[m
+Author: Dennis Ngatia <118254990+Kingori04@users.noreply.github.com>
+Date:   Sun Jan 12 23:26:23 2025 +0300
+
+    Delete arithmetic_operations.py
+
+[33mcommit 5dafb595d6755948e07cd9f958565836fa5babb5[m
+Author: Dennis Ngatia <ngatiaalx@gmail.com>
+Date:   Sun Jan 12 23:15:39 2025 +0300
+
+    Add arithmetic_operations.py for basic arithmetic operations
+
+[33mcommit 748445a0f8e2b881b0174a6d5f41d4464075aa88[m
+Author: Dennis Ngatia <118254990+Kingori04@users.noreply.github.com>
+Date:   Sun Jan 12 23:03:21 2025 +0300
+
+    Delete arithmetic_operations.py
+
+[33mcommit 2d265ab3bb625e4796a955975e0c044334825427[m
+Author: Dennis Ngatia <ngatiaalx@gmail.com>
+Date:   Sun Jan 12 22:33:41 2025 +0300
+
+    Add arithmetic_operations.py for basic arithmetic operations
+
+[33mcommit d048ef3d0bf7b667d66a5d7ee9f19170dafccbb0[m
+Author: Dennis Ngatia <ngatiaalx@gmail.com>
+Date:   Fri Dec 27 23:53:18 2024 +0300
+
+    Add daily_reminder.py to remind about a priority task
+
+[33mcommit c1b6df0c4440fdad9292827aa5f29e126309a963[m
+Author: Dennis Ngatia <ngatiaalx@gmail.com>
+Date:   Fri Dec 27 23:45:56 2024 +0300
+
+    Add daily_reminder.py to remind about a priority task
+
+[33mcommit 9e6d2a254c013698f1f4eb9364707a28ca55ae98[m
+Author: Dennis Ngatia <ngatiaalx@gmail.com>
+Date:   Fri Dec 27 23:42:19 2024 +0300
+
+    Add pattern_drawing.py to draw a square pattern
+
+[33mcommit 1b169450abbf039deac5819667f3657547205ec8[m
+Author: Dennis Ngatia <ngatiaalx@gmail.com>
+Date:   Fri Dec 27 23:39:36 2024 +0300
+
+    Add multiplication_table.py to generate multiplication table
+
+[33mcommit f223db0c7b7d4b091e3ef66214031f503ff80872[m
+Author: Dennis Ngatia <ngatiaalx@gmail.com>
+Date:   Fri Dec 27 23:08:45 2024 +0300
+
+    Add match_case_calculator.py for match-case calculator
+
+[33mcommit 2871cfbcd3f73e6f728f4462bc86ac5499d5acc0[m
+Author: Dennis Ngatia <ngatiaalx@gmail.com>
+Date:   Mon Dec 23 00:23:56 2024 +0300
+
+    Add control-flow directory and weather_advice.py script
+
+[33mcommit 8108edc70ec8b4e1b248ac25a299bbf2cb4690c5[m
+Author: Dennis Ngatia <ngatiaalx@gmail.com>
+Date:   Mon Dec 23 00:16:25 2024 +0300
+
+    Remove control-flow directory and weather_advice.py
+
+[33mcommit 0891c5721ece268e02a2abb13ce96090f25c11a5[m
+Author: Dennis Ngatia <ngatiaalx@gmail.com>
+Date:   Wed Dec 18 05:18:03 2024 +0300
+
+    Add correctionj for finance_calculator.py for monthly and annual savings calculation
+
+[33mcommit 7558ce6837704745ab3050d4ff083f5a1864e13d[m
+Author: Dennis Ngatia <ngatiaalx@gmail.com>
+Date:   Wed Dec 18 05:03:37 2024 +0300
+
+    Add finance_calculator.py for monthly and annual savings calculation
+
+[33mcommit 302a758e09aca57097dc7c70699f42525ce5a985[m
+Author: Dennis Ngatia <ngatiaalx@gmail.com>
+Date:   Wed Dec 18 04:54:55 2024 +0300
+
+    Move all Python files to python_introduction directory
+
+[33mcommit 018d91b242dcddb30bc62f19de2f83e0bd57aca4[m
+Author: Dennis Ngatia <ngatiaalx@gmail.com>
+Date:   Mon Dec 16 20:16:30 2024 +0300
+
+    Added age calculator for year 2050
+
+[33mcommit 4ab14ee273548ec97c7f95c85a803a1af6deea19[m
+Author: Dennis Ngatia <ngatiaalx@gmail.com>
+Date:   Mon Dec 16 20:01:10 2024 +0300
+
+    Added python script to convert hours to seconds
+
+[33mcommit e3f10798bc32387faeeaca88fbf6e7e5b1b2f203[m
+Author: Dennis Ngatia <ngatiaalx@gmail.com>
+Date:   Mon Dec 16 19:09:46 2024 +0300
+
+    Add rectangle calculation
+
+[33mcommit e0457828c0e76a3613fe7be674c0eeedaee59a2f[m
+Author: Dennis Ngatia <ngatiaalx@gmail.com>
+Date:   Mon Dec 16 19:01:58 2024 +0300
+
+    Add simple interest calculation
+
+[33mcommit a6a0e488ed9bdea4b7571565ad13b406a9c1712f[m
+Author: Dennis Ngatia <ngatiaalx@gmail.com>
+Date:   Mon Dec 16 18:04:22 2024 +0300
+
+    Add basic_operations.py
